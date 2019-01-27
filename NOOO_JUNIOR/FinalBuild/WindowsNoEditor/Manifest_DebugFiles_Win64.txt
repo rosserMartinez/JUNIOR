@@ -1,0 +1,10 @@
+Engine/Binaries/Win64/UE4Game-Win64-Shipping.pdb	2018-08-21T18:07:20.932Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.pdb	2018-08-21T18:06:20.342Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.pdb	2018-08-21T18:06:20.385Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.pdb	2018-08-21T18:06:16.538Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.pdb	2018-08-21T18:06:18.182Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.pdb	2018-08-21T18:06:17.691Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.pdb	2018-08-21T18:06:11.518Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.pdb	2018-08-21T18:06:13.970Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.pdb	2018-08-21T18:06:15.589Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.pdb	2018-08-21T18:06:15.848Z
